@@ -1,0 +1,2 @@
+proxies:
+  - {name: 🎧 网易音乐 6, server: MUSIC.GRIOUGES.CN, port: 39000, type: http, tls: false, skip-cert-verify: false}
